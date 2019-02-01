@@ -1,0 +1,1 @@
+int main() {\n\\tprintf(\"Hello world!\\n\");\n\treturn 0;\n}"
